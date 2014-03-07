@@ -4,7 +4,7 @@ hgb-thesis
 LaTeX template for theses at the University of Applied Sciences Upper Austria Hagenberg campus
 
 Original README:
-================
+----------------
 
 Dieses Verzeichnis enthält eine LaTeX-Vorlage für 
   a) Diplom-/Masterarbeitenarbeiten, 
